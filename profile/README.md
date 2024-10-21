@@ -10,5 +10,8 @@
   [![image](https://github.com/user-attachments/assets/6252201b-0efe-4d3a-b13a-b1e22dc90e45)](https://youtu.be/NyOSoLn5T5U?si=cBGt14POtfmi0Wpk)
 
   *Click on the image to get started with Semaphore in 20 minutes.*
+
+  
+  [![sponsor](https://img.shields.io/badge/become_a_sponsor-d9c7ff?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/semaphoreui) [![ko-fi](https://img.shields.io/badge/buy_me_a_coffee-0ba0e0?style=for-the-badge&logo=kofi)](https://ko-fi.com/fiftin) [![patreon](https://img.shields.io/badge/become_a_patreon-teal?style=for-the-badge&logo=patreon)](https://www.patreon.com/semaphoreui)
 </div>
   
